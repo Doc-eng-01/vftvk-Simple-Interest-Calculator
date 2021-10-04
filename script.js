@@ -1,6 +1,10 @@
 function compute()
 {
     p = document.getElementById("principal").value;
+    /*checking principal value for negative and zero */
+    if (p <= 0 || p == ""){
+      alert("Enter a correct principal value")
+    }
     q = document.getElementById("rate").value;
     console.log("Rate is:"+q);
     r = document.getElementById("years").value;
