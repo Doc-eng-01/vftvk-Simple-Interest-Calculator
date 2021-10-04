@@ -57,3 +57,6 @@ p {
   display: inline;
   margin-left: 1.5ex;
 }
+span {
+  background-color: yellow;
+}
