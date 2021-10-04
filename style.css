@@ -1,4 +1,59 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+  background-color: black;
+}
+div {
+  margin-top: 25ex;
+  margin-left: 15ex;
+  margin-right: 15ex;
+  margin-bottom: 25ex;
+  background-color: white;
 
+  border-radius: 2ex;
+  padding-top: 2ex;
+  padding-left: 2ex;
+  padding-right: 2ex;
+  padding-bottom: 2ex;
+}
+h1 {
+  color: grey;
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+#principal {
+  margin-left: 10ex;
+  margin-bottom: 2ex;
+}
+
+#rate {
+  margin-left: 5ex;
+  margin-bottom: 2ex;
+}
+#years {
+  margin-left: 5ex;
+  margin-bottom: 2ex;
+  inline-size: 6ex;
+}
+footer {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#internal_container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+label {
+  margin-left: 10ex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+  margin-left: 13ex;
+}
+p {
+  margin-left: 10ex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#demo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline;
+  margin-left: 1.5ex;
+}
